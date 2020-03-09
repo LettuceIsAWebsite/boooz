@@ -1,0 +1,42 @@
+/*header styles */
+
+header{
+	background-color: #0211FF;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	font-family: 'Audiowide', cursive;
+
+}
+
+
+header img{
+	border-radius: 200px;
+	width:400px;
+	height:400px
+}
+
+body{
+	margin: 0;
+}
+main{
+	margin: 0 auto;
+	padding: 20px;
+	text-align: auto;
+}
+
+body{
+	margin: 0;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	line-height: 30px;	
+}
+footer{
+	background-color: #0211FF; 
+	padding: 30px;
+}
+
+
+
+
+
